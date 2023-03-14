@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm Nick,a undergraduate student interested in computer architecture design, programming in C/C++/Rust,
+I'm Nick, a undergraduate student interested in computer architecture design, programming in C/C++/Rust,
 and RTL design in Verilog.
 
 I'm studying computer engineering at Utah State University and expect to graduate in 2025.
