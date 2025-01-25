@@ -1,14 +1,14 @@
 # Hello there! 👋
 
 I'm Nick, a computer engineer interested in programming languages, formal verification, and
-digital architectures.
+computer architectures.
 
-## Schooling
+## Schooling 📚
 
 I'm currently studying computer engineering 🖥️ at [Utah State University](https://www.usu.edu/) and
 expect to complete my Master's Degree in 2025.
 
-## Coding Experience
+## Coding Experience 🧑‍💻
 
 I currently am most experienced writing C and C++, but I've taken courses using Rust and Java, 
 and I'm familiar with MATLAB, Python, VHDL, and Verilog. I'm
