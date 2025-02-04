@@ -18,7 +18,8 @@ description languages like [chisel](https://www.chisel-lang.org/) and [spade](ht
 ### Projects
 
 Some of the more recent code I've written is listed below:
-[Histogram application for USU CS 6300 - High Performance Computing](https://github.com/nwad123/usu_spring_2025/tree/hpc/Homework/2)
+
+- [Histogram application for USU CS 6300 - High Performance Computing](https://github.com/nwad123/usu_spring_2025/tree/hpc/Homework/2)
 
 <!---
 nwad123/nwad123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
