@@ -12,8 +12,13 @@ expect to complete my Master's Degree in 2025.
 
 I currently am most experienced writing C and C++, but I've taken courses using Rust and Java, 
 and I'm familiar with MATLAB, Python, VHDL, and Verilog. I'm
-interested in learning Swift, and also interested in trying out / contributing to unique hardware
+interested in learning Swift, and also interested in trying out unique hardware
 description languages like [chisel](https://www.chisel-lang.org/) and [spade](https://spade-lang.org/).
+
+### Projects
+
+Some of the more recent code I've written is listed below:
+[Histogram application for USU CS 6300 - High Performance Computing](https://github.com/nwad123/usu_spring_2025/tree/hpc/Homework/2)
 
 <!---
 nwad123/nwad123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
