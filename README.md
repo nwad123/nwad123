@@ -18,7 +18,7 @@ description languages like [chisel](https://www.chisel-lang.org/) and [spade](ht
 ## Website 
 
 I have a website where I put blog posts. Currently it doesn't look very pretty as my 
-design skills are developing, but it does have some content on it.
+design skills are "_developing_" 🙃, but it does have some content on it.
 
 [Assume False - Nicks Blog](https://nwad123.github.io/assume_false/)
 
