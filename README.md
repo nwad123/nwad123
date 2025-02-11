@@ -15,7 +15,14 @@ and I'm familiar with MATLAB, Python, VHDL, and Verilog. I'm
 interested in learning Swift, and also interested in trying out unique hardware
 description languages like [chisel](https://www.chisel-lang.org/) and [spade](https://spade-lang.org/).
 
-### Projects
+## Website 
+
+I have a website where I put blog posts. Currently it doesn't look very pretty as my 
+design skills are developing, but it does have some content on it.
+
+[Assume False - Nicks Blog](https://nwad123.github.io/assume_false/)
+
+## Projects
 
 Some of the more recent programs I've written are listed below:
 
